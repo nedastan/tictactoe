@@ -1,1 +1,2 @@
-# tictactoe
+Dastan Asanov midterm submission
+tictactoe project
