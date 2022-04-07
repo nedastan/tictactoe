@@ -7,3 +7,4 @@ Ilias Yangurazov: "Good project choice for a beginner programmer, everything wor
 Aisuluu Arstanbaeva: "Classic game in IT interpretation. Works good."
 Zhibek Mukhtarbekova: "Well written game. Didn't find any bugs."
 Tilek Karaev: "A suitable project to learn c#. Works flawlessly."
+![alt text](screenshot/screenshot1.jpg)
